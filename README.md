@@ -1,5 +1,3 @@
-
-# Laba1-Pi_432
 # ОТЧЁТ ПО ЛАБОРАТОРНОЙ РАБОТЕ №1
 ## Работа с Docker, Dockerfile и Docker Compose
 
